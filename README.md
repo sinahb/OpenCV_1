@@ -1,10 +1,15 @@
 <p align="center">
-    <img src="logo.png" width="200" alt="OpenCV انجام تکنیک های پردازش تصویر با">
+    <img src="logo.png" width="150" alt="انجام تکنیک‌های پردازش تصویر با OpenCV">
 </p>
 
+<p align="center" style="font-size: 16px; font-family: Tahoma, Arial, sans-serif; color: #555;">
+    پردازش تصویر با OpenCV
+</p>
+<br>
+<br>
 
 ### مراحل نصب و اجرای مستقل پروژه ها :
-
+<br>
 
 
 ### رفتن به فولدر برنامه
